@@ -1,5 +1,5 @@
-# crazy-u
+# crazy-Arjuna
 For robots
 
-# crazy-we
-For humans
+# crazy-humans phylosophy
+For humanskind
